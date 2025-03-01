@@ -31,7 +31,7 @@ Furthermore, after the first run it became apparent that the embedding separatio
 The Mean Squared Error (MSE) was chosen as the loss function to favor accurate reconstruction of the audio embeddings.
 
 ## Evaluation
-For the evaluation we check the similarity of embeddings by computing distances between audio performances of the same musical work (in-clique) and performances of different works (cross-clique).
+For the evaluation we check the similarity of embeddings by computing euclidean distances between audio performances of the same musical work (in-clique) and performances of different works (cross-clique).
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
