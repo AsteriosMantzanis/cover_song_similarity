@@ -37,11 +37,11 @@ We observe that distributions from both experiments have a significant degree of
 
 <div style="display: flex; justify-content: center; gap: 10px; max-width: 800px; margin: auto; overflow: auto;">
   <figure style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4" width="350">
+    <img src="https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4" width="150">
     <figcaption>Distances using chroma and hpcp only.</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446" width="350">
+    <img src="https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446" width="150">
     <figcaption>Distances using all aggregated features.</figcaption>
   </figure>
 </div>
