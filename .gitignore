@@ -1,0 +1,4 @@
+*__pycache__
+*checkpoints
+*lightning_logs
+*.ruff_cache
