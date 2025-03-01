@@ -35,16 +35,11 @@ For the evaluation we check the similarity of embeddings by computing distances 
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
-<div style="text-align: center;">
-  <figure>
-    <img src="https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4" width="400">
-    <figcaption>Distances using chroma and hpcp only.</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446" width="400">
-    <figcaption>Distances using all aggregated features.</figcaption>
-  </figure>
-</div>
+![Distances using chroma and hpcp only.](https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4)  
+**Distances using chroma and hpcp only.**  
+
+![Distances using all aggregated features.](https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446)  
+**Distances using all aggregated features.**
 
 
 
