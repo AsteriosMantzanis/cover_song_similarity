@@ -35,7 +35,7 @@ For the evaluation we check the similarity of embeddings by computing distances 
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
-<div style="display: flex; justify-content: center; gap: 5px; max-width: 800px; margin: auto; overflow: auto;">
+<div style="display: flex; justify-content: center; gap: 2px; max-width: 800px; margin: auto; overflow: auto;">
   <figure style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4" width="250">
     <figcaption>Distances using chroma and hpcp only.</figcaption>
