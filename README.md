@@ -35,6 +35,8 @@ For the evaluation we check the similarity of embeddings by computing distances 
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
+![Image 1](https://github.com/user-attachments/assets/f2d793e8-4d46-4f65-8a62-cbe674ee2e9f) ![Image 2](LINK_TO_IMAGE_2)
+
 This may be from the following:
  1. Each feature vector is aggregated, i.e. (12,N)->(12,1).
  2. The metric used to build the latent space may be lacking.
