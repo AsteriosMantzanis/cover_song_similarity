@@ -35,10 +35,7 @@ For the evaluation we check the similarity of embeddings by computing distances 
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
-<p align="center">
-  <img src="[LINK_TO_IMAGE_1](https://github.com/user-attachments/assets/f2d793e8-4d46-4f65-8a62-cbe674ee2e9f)" width="45%">
-  <img src="![Image](https://github.com/user-attachments/assets/feffefc7-36dc-45f1-b86b-0a477f8e38f0)" width="45%">
-</p>
+![Image1](https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446) ![Image2](https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4)
 
 This may be from the following:
  1. Each feature vector is aggregated, i.e. (12,N)->(12,1).
