@@ -35,7 +35,16 @@ For the evaluation we check the similarity of embeddings by computing distances 
 
 We observe that distributions from both experiments have a significant degree of overlap.
 
-![Image1](https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446) ![Image2](https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <figure style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/91dd6bde-2fbc-4da3-a935-a49946f30bc4" width="500">
+    <figcaption>Distances using chroma and hpcp only.</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/0fb746d6-d098-46c4-81d2-bd9005825446" width="500">
+    <figcaption>Distances using all aggregated features.</figcaption>
+  </figure>
+</div>
 
 This may be from the following:
  1. Each feature vector is aggregated, i.e. (12,N)->(12,1).
