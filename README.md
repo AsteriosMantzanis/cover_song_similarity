@@ -1,5 +1,6 @@
 # Cover Song Similarity Using a Linear Autoencoder
 ## Table of Contents
+
 - [Cover Song Similarity Using a Linear Autoencoder](#cover-song-similarity-using-a-linear-autoencoder)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
